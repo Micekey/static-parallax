@@ -1,0 +1,74 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100;300;400&display=swap'); */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Roboto', sans-serif;
+}
+
+.disclaimer {
+    color: white;
+    background-color: black;
+}
+
+.landing_image {
+    background-image: url(https://wallpaper.dog/large/20519137.jpg);
+    background-attachment: fixed;
+    height: 100vh;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.landing_text_box {
+    position: relative;
+    top: 45vh;
+    width: 100%;
+    text-align: center;
+}
+
+.landing_text {
+    font-size: 40px;
+    padding: 20px;
+    background: #7A4495;
+    color: #FCE2DB;
+}
+
+.section {
+    text-align: center;
+    padding: 20px;
+    background-color: white;
+    color: #542f67;
+    line-height: 1.5em;
+}
+
+.section h1 {
+    margin-bottom: 20px;
+}
+
+.section p {
+    line-height: 1.8em;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
+
+.image_two {
+    background-image: url(https://cdnb.artstation.com/p/assets/images/images/056/615/205/large/deep-voyage-warm-anime-landscapeiiii.jpg?1669695007);
+    background-attachment: fixed;
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.image_three {
+    background-image: url(https://wallup.net/wp-content/uploads/2015/12/27296-road-stars-night-fox-forest-trees-anime.jpg);
+    background-attachment: fixed;
+    min-height: 600px;
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
